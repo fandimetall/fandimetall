@@ -47,18 +47,10 @@ Workout progress tracker with form validation.
 
 ---
 
-## 🌱 Current Learning Path
-
-**Phase 1 (Sep-Oct 2026):** Python fundamentals, Git, APIs  
-**Phase 2 (Nov-Dec 2026):** Frameworks (Flask/FastAPI), databases  
-**Phase 3 (Jan+ 2027):** AI-assisted full-stack development
-
----
-
 ## 📫 Connect
 
 - 💬 Telegram: [@yorozuya69](https://t.me/yorozuya69)
-- 📧 Email: fandimetal7@gmail.com
+- 📧 Email: fandimetall@gmail.com
 
 ---
 

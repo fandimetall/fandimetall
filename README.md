@@ -43,7 +43,15 @@ Workout progress tracker with form validation.
 
 ## 📈 GitHub Stats
 
-![Fandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandimetal7&show_icons=true&theme=dark&count_private=true)
+![Fandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandimetall&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 🌱 Current Learning Path
+
+**Phase 1 (Sep-Oct 2026):** Python fundamentals, Git, APIs  
+**Phase 2 (Nov-Dec 2026):** Frameworks (Flask/FastAPI), databases  
+**Phase 3 (Jan+ 2027):** AI-assisted full-stack development
 
 ---
 
